@@ -1,0 +1,112 @@
+{
+  "pays": "Malte",
+  "drapeau": "🇲🇹",
+  "symbole": "☀️",
+  "titre": "Évasion Méditerranéenne Relaxante à Malte",
+  "budget_total": "620 €",
+  "duree": "4 jours",
+  "temps_vol": "2h55 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de La Valette",
+      "legende": "Débutez votre séjour en douceur par l'arrivée à Malte. Après l'installation, plongez dans l'atmosphère historique de La Valette, capitale classée à l'UNESCO. Flânez dans ses rues baroques et profitez des vues imprenables sur le Grand Port.",
+      "lieu": "La Valette",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international de Malte (MLA).",
+        "<strong>🛏️</strong>: Transfert et installation à votre hôtel à La Valette ou Sliema.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans les rues de La Valette et visite des Jardins d'Upper Barrakka."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Des bus publics (lignes X1, X2, X3, X4) relient l'aéroport aux principales villes. Les taxis et services VTC (Bolt) sont aussi disponibles."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛵",
+      "titre": "Découverte des Trois Cités et du Grand Port",
+      "legende": "Explorez les Trois Cités, joyaux historiques face à La Valette, en traversant le Grand Port en ferry. Laissez-vous charmer par leurs ruelles étroites et leurs fortifications. Une balade en bateau traditionnel vous offrira une perspective unique sur le port.",
+      "lieu": "Les Trois Cités (Vittoriosa, Senglea, Cospicua)",
+      "activites": [
+        "<strong>⛴️</strong>: Traversée en ferry de La Valette aux Trois Cités (Vittoriosa).",
+        "<strong>🚶‍♂️</strong>: Promenade paisible dans les ruelles de Vittoriosa et Senglea, avec leurs vues sur le port.",
+        "<strong>🚤</strong>: Tour en \"Dghajsa\" (bateau traditionnel) dans les criques du Grand Port."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce transport",
+          "texte": "Le ferry est le moyen le plus agréable et rapide pour rejoindre les Trois Cités depuis La Valette."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏝️",
+      "titre": "Évasion sur l'île de Gozo",
+      "legende": "Prenez le large pour une journée de détente sur l'île voisine de Gozo. Découvrez sa capitale, Victoria, et sa citadelle médiévale. Profitez ensuite d'un moment de quiétude sur une de ses plages pittoresques, loin de l'agitation.",
+      "lieu": "Gozo",
+      "activites": [
+        "<strong>🚢</strong>: Traversée en ferry vers l'île de Gozo depuis Cirkewwa.",
+        "<strong>🏰</strong>: Visite de la Citadelle de Victoria (Rabat) et ses panoramas.",
+        "<strong>🏖️</strong>: Détente à Ramla Bay, une plage de sable roux, ou à Xlendi Bay."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Se déplacer à Gozo",
+          "texte": "Les bus publics sont efficaces pour explorer Gozo. Un bus direct relie le terminal ferry à Victoria."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏰",
+      "titre": "La Cité Silencieuse et Départ",
+      "legende": "Avant votre départ, explorez la majestueuse Mdina, la \"Cité Silencieuse\", et ses remparts. Flânez dans ses ruelles médiévales et imprégnez-vous de son atmosphère intemporelle. Profitez d'un dernier repas maltais avant de rejoindre l'aéroport.",
+      "lieu": "Mdina & Rabat",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Visite de Mdina, la Cité Silencieuse, et ses points de vue.",
+        "<strong>⛪</strong>: Exploration de Rabat, la ville voisine, et ses catacombes (optionnel).",
+        "<strong>✈️</strong>: Transfert à l'aéroport international de Malte (MLA) pour votre vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Mdina et Rabat offrent de charmantes boutiques pour des souvenirs artisanaux locaux."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 242 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "35 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "140 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "150 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "50 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Avril à Juin et Septembre à Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "La conduite se fait à gauche à Malte. Les bus sont un excellent moyen de transport public.", "symbole": "🚗" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées.", "symbole": "💳" },
+    { "titre": "Les prises électriques sont de type G (britannique). Prévoyez un adaptateur.", "symbole": "🔌" },
+    { "titre": "L'eau du robinet est potable mais souvent salée. Préférez l'eau en bouteille.", "symbole": "💧" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-MLA/2026-05-15/2026-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Malta", "url": "https://www.visitmalta.com/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Malta Public Transport", "url": "https://www.publictransport.com.mt/en/routes-and-timetables", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Malte", "url": "https://www.maltaweather.com/", "symbole": "🌤️" }
+  ]
+}
